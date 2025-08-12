@@ -7,10 +7,10 @@ Retornar um sistema de softwarte a um estado operacional normal após uma falha,
  
 ## Etapas de Backup:
 Para realizar o backup é necessário:
--Fazer o Git Clone
--CD Nome da pasta
--NPM INSTALL
--NPX NEXT DEV
+- Fazer o Git Clone
+- CD Nome da pasta
+- NPM INSTALL
+- NPX NEXT DEV
 
 ## Simulação de Falha:
 Explique como será simulada a falha (exclusão da pasta local,
